@@ -364,7 +364,7 @@ select {
 .radio-group {
   display: block;
   gap: 5px;
-  align-items: left;
+  /* align-items: left; */
 }
 
 .radio-group input[type="radio"] {
